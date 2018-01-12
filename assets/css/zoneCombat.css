@@ -1,0 +1,65 @@
+.zoneCombat {
+    width : 80%;
+    max-width: 800px;
+    height: 500px;
+    margin: 100px auto;
+    border: 2px solid black;
+}
+
+.zone img {
+    height: 50%;
+    width: auto;
+}
+
+.zone {
+    width: 40%;
+    float: left;
+    margin: 6% 5%;
+    text-align: center;
+    height: 80%;
+}
+
+.vie {
+    width: 300px;
+    height: 20px;
+    margin: 50px auto;
+}
+
+.vie1 {
+    background-color: green;
+}
+
+.vie2 {
+    background-color: red;
+}
+
+
+
+
+
+
+
+/* ------------------ ZONE COMMANDES ---------------- ZONE COMMANDES ---------------- ZONE COMMANDES ---------------- ZONE COMMANDES --------------------*/
+
+
+.zoneCommandes {
+    width: 80%;
+    max-width: 600px;
+    height: 200px;
+    margin: 50px auto;
+    border: 2px dashed black;
+    padding: 0px;
+}
+
+.zoneCommandes button {
+    width: 20%;
+    height: 20%;
+    margin: 5% 14%;
+    background-color: rgb(29, 29, 29);
+    color: white;
+}
+
+.zoneCommandes button:hover {
+    box-shadow: 1px 1px 15px 8px white;
+    opacity: 0.7;
+}
