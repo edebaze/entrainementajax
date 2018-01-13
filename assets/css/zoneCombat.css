@@ -20,7 +20,8 @@
 }
 
 .vie {
-    width: 300px;
+    width: 80%;
+    max-width: 300px;
     height: 20px;
     margin: 50px auto;
 }
@@ -62,4 +63,20 @@
 .zoneCommandes button:hover {
     box-shadow: 1px 1px 15px 8px white;
     opacity: 0.7;
+}
+
+
+
+
+
+
+
+/* ------------------ ZONE TEXT ---------------- ZONE TEXT ---------------- ZONE TEXT ---------------- ZONE TEXT --------------------*/
+.zoneText {
+    width: 80%;
+    max-width: 600px;
+    height: 200px;
+    margin: 50px auto;
+    border: 1px dashed black;
+    padding: 20px;
 }

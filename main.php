@@ -40,10 +40,7 @@
     <?php
 
         include './assets/php/zoneCombat.php';
-        require './assets/php/class/Pokemon.php';
 
-        $pikachu = new Pokemon('pikachu', 12);
-        $tortank = new Pokemon('tortank', 37);
 
     ?>
 
@@ -63,7 +60,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>      
 
 <!-- AJAX -->
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 <!-- Inclusion des fichiers JS -->
 <script src="./assets/js/combat.js"></script>
