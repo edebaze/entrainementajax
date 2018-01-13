@@ -21,7 +21,7 @@
                    - Si je c/c la class Pokemon() en ajoutant un require de ./class/Pokemon.php il me dit
             que la classe éxiste déjà
 
-                                    --- --- ---
+                                        --- --- --- --- --- ---
 
             La class est donc normalement bien chargée, le problème doit se situer au niveau du $_SESSION.
             Je dois trouver un moyen de corriger ça
